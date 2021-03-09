@@ -1,0 +1,33 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "curso node.js principiantes",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaSanz/curso-node.git"
+  },
+  "keywords": [
+    "node.js",
+    "curso"
+  ],
+  "author": "DanielaSanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielaSanz/curso-node/issues"
+  },
+  "homepage": "https://github.com/DanielaSanz/curso-node#readme"
+}
